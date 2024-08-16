@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elizalilos
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python, surprise:)
+- 🌱 I’m currently learning python, beginner level
 - 💞️ I’m looking to collaborate on beginner friendly projects.
 - 📫 How to reach me @growingelilos is my tellegram account.
 - 😄 Pronouns: 
