@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Elizalilos
+- 👋 Hi, I’m Elizabeth
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python, beginner level
 - 💞️ I’m looking to collaborate on beginner friendly projects.
-- 📫 How to reach me @growingelilos is my tellegram account.
-- 😄 Pronouns: 
+- 📫 How to reach me @eliab212 is my tellegram account.
+- 😄 Pronouns: she/her
 - ⚡ Fun fact:
 
 <!---
